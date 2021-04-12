@@ -1,4 +1,4 @@
-// Ιωάννης Δραβίλας, sdi1900053
+// Giannis Dravilas
 
 #include <iostream>
 #include <string>
