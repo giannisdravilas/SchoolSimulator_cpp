@@ -1,4 +1,4 @@
-# SchoolSimulator
+# SchoolSimulator in C++
 📚🧑‍🎓👨‍🏫 A simple school simulator in C++, in which students arrive at a school, which operates for some hours. The fatigue of the students and the teachers is also computed.
 
 ### General description
