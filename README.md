@@ -1,18 +1,7 @@
-## Β' Ομάδα Ασκήσεων
+# SchoolSimulator
+📚🧑‍🎓👨‍🏫 A simple school simulator, in which students arrive at a school, which operates for some hours. The fatigue of the students and the teachers is also computed.
 
-Εκφώνηση: http://cgi.di.uoa.gr/~izambo/OOPassgn2_2021.pdf
-
-
-### Προσωπικά στοιχεία
-
-__Όνομα__: Ιωάννης Δραβίλας
-
-__Α.Μ.__: sdi1900053
-
-
-### Documentation
-
-__Άσκηση 1:__
+### General description
 
 A school consists of three floors, a yard and a staircase. Every floor consists of six classrooms and a corridor. Every classroom contains a maximum of Cclass students and a teacher.
 Every student is classified either as a junior or a senior one.
